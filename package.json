@@ -1,5 +1,23 @@
 {
-  "name"    : "trendingstwitter",
-  "version" : "1.0",
-  "main"    : "main.js"
+  "name": "uax-javier-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyaranda/uax-javier-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willyaranda/uax-javier-electron/issues"
+  },
+  "homepage": "https://github.com/willyaranda/uax-javier-electron#readme",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  }
 }
