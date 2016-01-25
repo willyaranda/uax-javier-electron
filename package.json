@@ -19,5 +19,8 @@
   "homepage": "https://github.com/willyaranda/uax-javier-electron#readme",
   "dependencies": {
     "twitter": "^1.2.5"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
   }
 }
